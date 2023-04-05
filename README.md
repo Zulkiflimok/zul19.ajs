@@ -1,7 +1,7 @@
 # zul19.ajs
 
 
-## For install Tutorial [HERE](https://youtu.be/am70IJvSkRg)
+## For install Tutorial [HERE](https://www.youtu.be/am70IJvSkRg)
 # ![logo](LINE-sm.png) LINE Python
 
 *LINE Messaging's private API*
