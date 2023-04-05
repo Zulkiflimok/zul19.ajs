@@ -7,9 +7,9 @@
 *LINE Messaging's private API*
 
 ----
-# [ADD ME!](http://line.me/ti/p/~linux.1)
+# [ADD ME!] (http://line.me/ti/p/~linux.1)
 # Ambil Token Bisa Di
-# [ZULKIFLI MOKOAGOW Bot Public](line.me/ti/p/~linux.1)
+#[ZULKIFLI MOKOAGOW Bot Public] (line.me/ti/p/~linux.1)
 
 # Termux
 
