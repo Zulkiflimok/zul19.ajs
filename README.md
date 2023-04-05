@@ -9,7 +9,7 @@
 ----
 # [ADD ME!](http://line.me/ti/p/~linux.1)
 # Ambil Token Bisa Di
-# [ADITMADZS Bot Public](line.me/ti/p/~linux.1)
+# [ZULKIFLI MOKOAGOW Bot Public](line.me/ti/p/~linux.1)
 
 # Termux
 
